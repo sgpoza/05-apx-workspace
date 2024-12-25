@@ -1,6 +1,17 @@
 {
   "name": "sgp-apx-side-menu",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgpoza/05-apx-workspace"
+  },
+  "keywords": ["fernando", "apx", "do-not-use"],
+  "license": "MIT",
+  "author": "Sergio G. Poza. Course by Fernando Herrera",
+  "bugs": {
+    "url": "https://github.com/sgpoza/05-apx-workspace/issues"
+  },
+  "homepage": "https://fernando-herrera.com",
   "peerDependencies": {
     "@angular/common": "^19.0.0",
     "@angular/core": "^19.0.0"

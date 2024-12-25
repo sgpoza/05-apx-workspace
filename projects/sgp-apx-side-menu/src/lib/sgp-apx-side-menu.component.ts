@@ -17,6 +17,9 @@ export enum TitleColor {
 export class ApxSideMenuComponent {
   isAuthenticated = input(false);
 
+  title = input('APX');
+  subTitle = input('Corp');
+
   titleColor = input<TitleColor>(TitleColor.purple);
 
   signIn = output();
